@@ -5,3 +5,7 @@ Yes! you heard that right! This is completely made for android tablets! You can 
 
 # Resource Variables
 Refer to [here](https://github.com/ios7jbpro/KWEDesktop/blob/main/resourcevariables.md) to see about resources.
+
+# sysflag Variables
+
+Refer to [here](https://github.com/ios7jbpro/KWEDesktop/blob/main/sysflagvariables.md) to see about sysflag variables.
